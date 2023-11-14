@@ -1,0 +1,14 @@
+/* Add your custom styles for the Login component */
+.container {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .form-label {
+    margin-bottom: 0.5rem;
+  }
+  
+  .btn-login {
+    width: 100%;
+  }
+  
